@@ -1,0 +1,32 @@
+﻿Megan Janitor
+9/28/20
+
+
+Up to this point, I've worked in Java, Python, JavaScript, C, and C++. I actually learned JavaScript while 
+
+
+trying to make a web scraper as a personal little project and it was really fun and interesting! So I would 
+
+
+say I have the least experience with JavaScript as I pretty much have used it only for that project (maybe 
+
+
+3 months). Java I have worked with for about two years, Python just for the duration of this program so 
+
+
+far, so about one year, and C and C++ I have about a year of experience with each. As for IDEs, I have 
+
+
+worked with Visual Studio extensively in several languages. I've used both jGRASP and IntelliJ for Java 
+
+
+and finally PyCharm for Python. As for classes, I've completed the two introductory courses into CS at 
+
+
+OSU, discrete mathematics, assembly language and computer architecture. I'm taking this course now as
+
+
+ well as web development. And at community college I took three classes in Java, a computer 
+
+
+architecture course,  and an intro to programming class.
